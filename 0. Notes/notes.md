@@ -162,6 +162,16 @@ You can have the 1.5% interest rate.
 
 ---
 
+## Wrap-Up
+
+With the pieces of `if`, `else if` and `else`, we can accomplish almost anything! Combinations of these pieces can often be referred to as an `if` block. These are the rules for an `if` block:
+
+1. Only 1 `if` statement.
+2. 0 to many `else if` statements.
+3. 0 or 1 `else` statements.
+
+---
+
 ## Assignment
 
 Now that you have gone through the notes for this section, you can check out the `Try.md` and `Try.java` files to try a short assignment using this material.
